@@ -207,11 +207,10 @@ Now every commit triggers CI/CD.
 
 # 👨‍💻 Author
 
-### Vinit Singh
+### Lovenish
 
 💻 Full-Stack Developer
 🐳 DevOps Learner
-📍 India
 
 ---
 
